@@ -5,8 +5,8 @@
 const { readFileSync, writeFileSync, read } = require("fs") //another approach to use modules 
 
 // const fs = require("fs")
-// fs.readFileSync
-// fs.writeFileSync  we just destructured it above 
+// const data = fs.readFileSync('file path', 'encoding paratmeter')
+// const data = fs.writeFileSync('file path', 'details') we just destructured it above 
 
 
 
